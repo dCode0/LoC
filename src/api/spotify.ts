@@ -6,7 +6,7 @@ import {useDispatch} from "react-redux";
 export default axios.create({
     baseURL: "https://api.spotify.com/v1"
 });
-const CLIENT_ID = "ffc99ff751204e43b490cb9073d04b07";
+const CLIENT_ID = "6e31ac1d8150417291d20582ca7320e4";
 const REDIRECT_URI = process.env.REACT_APP_CALLBACK_URL as string;
 const scope = "user-read-private user-read-email streaming " +
     "playlist-read-private playlist-read-collaborative " +
