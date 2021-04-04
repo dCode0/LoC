@@ -69,7 +69,7 @@ const SideBar = ({playlists, setCurrentPlaylist, setCurrentView}: SideBar) => {
             <Menu.Item style={{position: "fixed", bottom: "5vh"}}>
                 <img className="ui avatar image" src={user.images[0] && user.images[0].url}
                      alt={""}/>
-                <strong>{user?.display_name}</strong>
+                <strong>{user && user.display_name}</strong>
             </Menu.Item>
         </Sidebar>
     )
