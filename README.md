@@ -3,6 +3,7 @@ PART 1: https://www.loom.com/share/b17b0270ebeb473cb3a5d1136f96434e
 
 PART 2: https://www.loom.com/share/05ce0293c37342109f910e0261754b59
 
+PART 3: https://www.loom.com/share/023811f813d446698291fe9a8a08324f
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
