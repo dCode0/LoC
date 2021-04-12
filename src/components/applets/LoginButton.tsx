@@ -11,7 +11,7 @@ const LoginButton = () => {
         <Modal trigger={modalButton} closeIcon={<Icon name={"close"}/>} size={"small"}
                style={{maxWidth: 400, height: 500}}>
             <Modal.Header as={Container} textAlign={"center"}>
-                To continue, log in to SoundS.
+                To continue, log in to LushSounds.
             </Modal.Header>
             <Modal.Content>
                 <Form size={"big"}>

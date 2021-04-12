@@ -9,7 +9,7 @@ const NavBar = () => {
                 <img src={"https://react.semantic-ui.com/logo.png"} alt={""}/>
             </Menu.Item>
             <Menu.Item>
-                <Header inverted>SoundS<sup>TM</sup></Header>
+                <Header inverted>LushSounds<sup>TM</sup></Header>
             </Menu.Item>
             <Menu.Menu position={"right"}>
                 <Menu.Item>

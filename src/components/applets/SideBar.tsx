@@ -31,7 +31,7 @@ const SideBar = ({playlists, setCurrentPlaylist, setCurrentView}: SideBar) => {
         >
             <Menu.Item as={"a"} href={"/dashboard"}>
                 <Image src={"https://react.semantic-ui.com/logo.png"} alt={""} size={"mini"} spaced={"right"}
-                       centered/> <strong>SoundS<sup>TM</sup></strong>
+                       centered/> <strong>LushSounds<sup>TM</sup></strong>
             </Menu.Item>
             <Menu.Item as={"a"} onClick={() => setCurrentView("homeView")}>
                 <span style={{fontSize: 24}}><Icon name='home' size={"small"} inverted/>Home</span>

@@ -35,7 +35,7 @@ class SpotifyWeb extends React.Component<Props, State> {
 
             // @ts-ignore
             this.player = new Spotify.Player({
-                name: 'DF Sounds',
+                name: 'Lush Sounds',
                 getOAuthToken: (cb: any) => {
                     cb(token);
                 }
