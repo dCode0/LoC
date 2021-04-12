@@ -1,6 +1,8 @@
 VIDEO LINKS:
 PART 1: https://www.loom.com/share/b17b0270ebeb473cb3a5d1136f96434e
 
+PART 2: https://www.loom.com/share/05ce0293c37342109f910e0261754b59
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
