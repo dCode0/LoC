@@ -1,3 +1,7 @@
+VIDEO LINKS:
+PART 1: https://www.loom.com/share/b17b0270ebeb473cb3a5d1136f96434e
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
